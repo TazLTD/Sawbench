@@ -51,7 +51,7 @@ function startCut()
         if bench and DoesEntityExist(bench) then
             local benchCoords = GetEntityCoords(bench)
             local forward = GetEntityForwardVector(bench)
-            local offset = 0.5
+            local offset = 0.7
             local targetPos = benchCoords - forward * offset
             SetEntityCoords(ped, targetPos.x, targetPos.y, targetPos.z)
             SetEntityHeading(ped, GetEntityHeading(bench))
