@@ -12,7 +12,11 @@ A lightweight and immersive sawbench system for QBCore-based FiveM servers using
 - :bug: Built-in debug logging
 
 
-https://github.com/user-attachments/assets/302a51ef-0079-4342-bc00-c3f588fda86c
+
+
+https://github.com/user-attachments/assets/0af755aa-9c64-4f80-a400-99e62e281794
+
+
 
 
 ## :package: Requirements
